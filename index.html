@@ -13,14 +13,25 @@
   <script>
     window.$docsify = {
       name: '',
-      repo: ''
+      repo: '',
+      loadNavbar: true,     
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
-
-  <!-- ZOOM IMAGES -->
+  <script 
+      src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"
+      type="text/javascript">
+  </script>  
+   <!-- docsify-tabs (latest v1.x.x) -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>  
+  <!-- PDFObject.js is a required dependency of this plugin -->
+  <script src="//cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script> 
+  <!-- This is the source code of the pdf embed plugin -->
+  <script src="path-to-file/docsify-pdf-embed.js"></script>
+  <!-- or use this if you are not hosting the file yourself -->
+  <script src="//unpkg.com/docsify-pdf-embed-plugin/src/docsify-pdf-embed.js"></script>
+  <script src="//unpkg.com/docsify-slides/dist/docsify-slides.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
-
 </body>
 </html>

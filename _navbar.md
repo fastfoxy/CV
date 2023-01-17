@@ -1,8 +1,8 @@
 <!-- _navbar.md -->
 
-* Languages
+* Language
 
   * [Русский](/README.md)
-  * [English](/EN/README.md)
+  * [English](/README_EN.md)
 
-* [Курс по JS](https://code-basics.com/ru/languages/javascript)
+* [GitHub](https://github.com/fastfoxy)
