@@ -25,8 +25,8 @@
 > Senior QA and implementation engineer
 
 - test automation in Python using the PyTest library and report generation with Allure
- - in Windows projects with PyWinAuto library
- - in Web - using Selenium WebDriver
+  - in Windows projects with PyWinAuto library
+  - in Web - using Selenium WebDriver
 - implementation of test management system (TMS Testlink)
 - organization and control of testing process on projects, distribution and control of tasks within the team
 - testing of information protection systems, FW and intrusion detection and prevention tools
