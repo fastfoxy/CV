@@ -97,6 +97,8 @@ Specialty - Computing machines, complexes, systems and networks
 
 5) [Interactive SQL trainer](https://stepik.org/cert/1882215)
 
+6) [Docker + practice](https://stepik.org/cert/1951074)
+
 
 #### **Skills**
 
