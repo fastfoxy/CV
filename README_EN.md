@@ -99,6 +99,8 @@ Specialty - Computing machines, complexes, systems and networks
 
 6) [Docker + practice](https://stepik.org/cert/1951074)
 
+> LeetCode Achievement
+![LeetCodeImage](/resources/LeetCode50days2023.png ':size=50%')
 
 #### **Skills**
 
@@ -172,4 +174,4 @@ Toroshchin_Sergei_QAA.pdf
 <br>
 <br>
 
-![Картинка](/resources/avatar.jpg ':size=33%')
+![Photo](/resources/avatar.jpg ':size=33%')
