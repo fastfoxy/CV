@@ -1,6 +1,6 @@
 # Toroshchin Sergei
 
-> Age: 35
+> Age: 36
 >
 > Position: Senior QA
 >
@@ -136,11 +136,10 @@ Familiar with Redmine, BugZilla, Mantis
 
 Hi, my name is Sergey.
 
-I am currently looking for a job as a Test Automation Engineer - QA Automation Engineer,
-With the possibility of relocation in Europe.
+I am currently looking for a job as a Test Automation Engineer - QA Automation Engineer.
 
-I am working in software testing for almost 14 years.
-Last 9 of them as a Senior QA Engineer.
+I am working in software testing for almost 15 years.
+Last 10 of them as a Senior QA Engineer.
 In recent years I am developing in the direction of autotesting.
 
 I have experience in:
