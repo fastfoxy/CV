@@ -98,7 +98,8 @@
 6) [Docker + практический опыт](https://stepik.org/cert/1951074)
 
 > Награда от LeetCode
-![LeetCodeImage](/resources/LeetCode50days2023.png ':size=50%')
+
+![LeetCodeImage](/resources/LeetCode50days2023.png ':size=25%')
 
 #### **Навыки**
 
