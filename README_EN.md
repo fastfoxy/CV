@@ -6,7 +6,7 @@
 >
 > Company: Конфидент
 >
-> Reside in: Tashkent
+> Reside in: Saint-Petersburg
 >
 > odd_bod@mail.ru
 >
@@ -139,10 +139,10 @@ Familiar with Redmine, BugZilla, Mantis
 
 Hi, my name is Sergey.
 
-I am currently looking for a job as a Test Automation Engineer - QA Automation Engineer.
+I am currently looking for a job as QA Lead/Senior and as a Test Automation Engineer - QA Automation Engineer.
 
-I am working in software testing for almost 15 years.
-Last 10 of them as a Senior QA Engineer.
+I am working in software testing for almost 17 years.
+Last 12 of them as a Senior QA Engineer.
 In recent years I am developing in the direction of autotesting.
 
 I have experience in:
@@ -165,7 +165,7 @@ Sergey Toroshchin.
 #### **PDF**
 
 ```pdf
-Toroshchin_Sergei_QAA.pdf
+Toroshchin Sergei AQA.pdf
 ``` 
 
 <!-- tabs:end -->
