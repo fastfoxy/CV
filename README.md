@@ -163,7 +163,7 @@
 #### **PDF**
 
 ```pdf
-Toroshchin Sergei AQA.pdf
+Торощин Сергей AQA.pdf
 ``` 
 
 <!-- tabs:end -->
@@ -174,3 +174,4 @@ Toroshchin Sergei AQA.pdf
 <br>
 
 ![Фото](/resources/avatar.jpg ':size=33%')
+
